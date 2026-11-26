@@ -1,0 +1,8 @@
+pandas>=2.2
+numpy
+matplotlib
+scipy
+lightgbm
+jupyterlab
+kaggle
+scikit-learn

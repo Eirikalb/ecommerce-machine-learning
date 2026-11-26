@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "jupyter",
+      "runtimeExecutable": ".venv/bin/jupyter",
+      "runtimeArgs": ["lab", "--no-browser", "--port", "8888", "--ServerApp.ip=127.0.0.1", "--IdentityProvider.token=", "--ServerApp.password="],
+      "port": 8888
+    }
+  ]
+}
